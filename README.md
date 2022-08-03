@@ -1,2 +1,2 @@
-# -datasciencecoursera
-applied project IBM---Michelingweo
+# Location recommendation based on Foursquare Data
+applied project IBM
